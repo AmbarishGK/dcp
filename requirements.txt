@@ -1,0 +1,8 @@
+torch 
+torchvision 
+torchaudio
+scipy>=1.2
+numpy
+h5py
+tqdm
+TensorboardX
